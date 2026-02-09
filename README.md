@@ -109,7 +109,7 @@
 ### 🏆 GitHub Trophies:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishuthedev&theme=darkhub" alt="vishuthedev" /></a> </p>
 
-- 🔭 I’m currently working on [NeoSoft](https://www.neosofttech.com/)
+- 🔭 I’m currently working at [NeoSoft](https://www.neosofttech.com/)
 - 🌱 I’m currently learning **Docker and Kubernetes**
 - 👨‍💻 All of my projects are available at [https://github.com/vishuthedev](https://github.com/vishuthedev)
 - 💬 Ask me about **Node.js, Python, MongoDB, MySQL, Redis, Docker**
