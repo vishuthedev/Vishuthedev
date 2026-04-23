@@ -20,8 +20,9 @@
 
 ---
 
-* 📫 Reach me at: **[vishalsingh02526@gmail.com](mailto:vishalsingh02526@gmail.com)**
-* 🌍 Portfolio: https://github.com/vishuthedev
+## 🤝 Reach Me At
+* 📫 Email : **[vishalsingh02526@gmail.com](mailto:vishalsingh02526@gmail.com)**
+* 🌍 Portfolio : https://github.com/vishuthedev
 
 ---
 
