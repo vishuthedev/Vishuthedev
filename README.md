@@ -30,15 +30,15 @@
 <p align="center">
 
 <a href="https://rejara.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A6D8C,50:3A6D8C,50:ffffff,100:ffffff&height=120&section=header&text=Rejara&fontSize=28&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,50:3A6D8C,100:e2e8f0&height=120&section=header&text=Rejara&fontSize=28&fontColor=000000" />
 </a>
 
 <a href="https://cargodham.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,33:ff0000,33:0000ff,66:0000ff,66:ffff00,100:ffff00&height=120&section=header&text=Cargodham&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d4d,50:2563eb,100:facc15&height=120&section=header&text=Cargodham&fontSize=28&fontColor=ffffff" />
 </a>
 
 <a href="https://medminellc.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,50:ff0000,50:000000,100:000000&height=120&section=header&text=MedMine&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,50:990000,100:000000&height=120&section=header&text=MedMine&fontSize=28&fontColor=ffffff" />
 </a>
 
 </p>
