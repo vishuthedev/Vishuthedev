@@ -22,8 +22,6 @@
 
 ## 🚀 Featured Projects
 
-> (Replace these with your actual best projects)
-
 * 🔹 **E-commerce Backend API**
   Scalable Node.js backend with authentication, payments & order management
 
@@ -40,25 +38,40 @@
 ### 🚀 Backend & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,javascript" />
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" /></a>
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 </p>
 
 ### 🛠 Tools & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=express,nestjs,django,flask,git,postman" />
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
 </p>
 
 ---
@@ -95,10 +108,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vishal-singh-938928156">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/vishal-singh-938928156" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 15px;" />
   </a>
-  <a href="https://instagram.com/aai_vishu">
+  <a href="https://instagram.com/aai_vishu" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
