@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://medminellc.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,50:990000,100:000000&height=120&section=header&text=MedMine&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,50:ff0000,50:000000,100:000000&height=120&section=header&text=MedMine&fontSize=28&fontColor=ffffff" />
 </a>
 
 </p>
