@@ -32,11 +32,11 @@
 <a href="https://rejara.com/">
   <img src="data:image/svg+xml,%3csvg%20width='81'%20height='81'%20viewBox='0%200%2081%2081'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='40.1228'%20cy='40.5273'%20r='40'%20fill='%233A6D8C'/%3e%3cpath%20d='M32.2033%2036.1175C27.3364%2036.1175%2023.3898%2040.0641%2023.3898%2044.9341H48.0393C52.9093%2044.9341%2056.8559%2040.9875%2056.8559%2036.1175H32.2033ZM48.0393%2048.3774H37.972C37.972%2050.8108%2038.9571%2053.0157%2040.5537%2054.6123C42.1471%2056.2058%2044.3521%2057.194%2046.7855%2057.194H56.8559C56.8559%2052.324%2052.9093%2048.3774%2048.0393%2048.3774ZM56.8559%2032.6742H32.2033C27.3364%2032.6742%2023.3898%2028.7276%2023.3898%2023.8607H48.0393C52.9093%2023.8607%2056.8559%2027.8073%2056.8559%2032.6742Z'%20fill='white'/%3e%3c/svg%3e" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://cargodham.com/">
   <img src="https://cargodham.com/assets/cargodham_text-CJPBlnMN.svg" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://medminellc.com/">
   <img src="https://medminellc.com/wp-content/uploads/2014/09/rsz_medminelogosm-e1410217727150.png" />
 </a>
