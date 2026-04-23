@@ -108,11 +108,11 @@
 ## 🌐 Connect With Me
   
 <p align="center">
-  <a href="https://linkedin.com/in/vishal-singh-938928156" rel="noopener noreferrer" target="_blank">
+  <a href="https://linkedin.com/in/vishal-singh-938928156" target="_blank" rel="noopener noreferrer" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/aai_vishu" rel="noopener noreferrer" target="_blank">
+  <a href="https://instagram.com/aai_vishu" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
