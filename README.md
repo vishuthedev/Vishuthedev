@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://cargodham.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d4d,50:2563eb,100:facc15&height=120&section=header&text=Cargodham&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,100:60a5fa&height=120&section=header&text=Cargodham&fontSize=28&fontColor=ffffff" />
 </a>
 
 <a href="https://medminellc.com/">
