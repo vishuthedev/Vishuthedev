@@ -30,21 +30,29 @@
 
 <p align="center">
 
-<a href="https://medminellc.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E54242,100:000000&height=100&width=300&section=header&text=MedMine&fontSize=20&fontColor=ffffff" />
-</a>
-
 <a href="https://rejara.com/">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:f1f5f9&height=100&width=300&section=header&text=Rejara&fontSize=20&fontColor=000000" />
+</a>
+
+<a href="https://cargodham.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07113b,100:918043&height=100&width=300&section=header&text=Cargodham&fontSize=20&fontColor=ffffff" />
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://cargodham.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07113b,100:918043&height=100&width=300&section=header&text=Cargodham&fontSize=20&fontColor=ffffff" />
+<a href="https://medminellc.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E54242,100:000000&height=100&width=300&section=header&text=MedMine&fontSize=20&fontColor=ffffff" />
 </a>
+
+<a href="https://www.nfttrace.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb86fc,100:f25102&height=100&width=300&section=header&text=NFTTrace&fontSize=20&fontColor=ffffff" />
+</a>
+
+</p>
+
+<p align="center">
 
 <a href="https://www.xpressbees.com/">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F58220,100:1f2937&height=100&width=300&section=header&text=XpressBees&fontSize=20&fontColor=ffffff" />
@@ -52,13 +60,6 @@
 
 </p>
 
-<p align="center">
-
-<a href="https://www.nfttrace.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb86fc,100:f25102&height=100&width=300&section=header&text=NFTTrace&fontSize=20&fontColor=ffffff" />
-</a>
-
-</p>
 ---
 
 ## ⚙️ Tech Stack
