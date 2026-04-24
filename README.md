@@ -30,16 +30,24 @@
 
 <p align="center">
 
-<a href="https://rejara.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,50:3A6D8C,100:e2e8f0&height=120&section=header&text=Rejara&fontSize=28&fontColor=000000" />
-</a>
-
-<a href="https://cargodham.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,100:60a5fa&height=120&section=header&text=Cargodham&fontSize=28&fontColor=ffffff" />
+<a href="https://www.nfttrace.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb86fc,100:f25102&height=120&section=header&text=NFTTrace&fontSize=28&fontColor=ffffff" />
 </a>
 
 <a href="https://medminellc.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,50:ff0000,50:000000,100:000000&height=120&section=header&text=MedMine&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E54242,100:000000&height=120&section=header&text=MedMine&fontSize=28&fontColor=ffffff" />
+</a>
+
+<a href="https://rejara.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:f8fafc&height=120&section=header&text=Rejara&fontSize=28&fontColor=000000" />
+</a>
+
+<a href="https://cargodham.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07113b,100:918043&height=120&section=header&text=Cargodham&fontSize=28&fontColor=ffffff" />
+</a>
+
+<a href="https://www.xpressbees.com/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F58220,100:1f2937&height=120&section=header&text=XpressBees&fontSize=28&fontColor=ffffff" />
 </a>
 
 </p>
